@@ -19,4 +19,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMERY_CARD_TOKEN }}
         with:
-          USERNAME: ${{ github.Buddhi7770 }}
+          USERNAME: "Buddhi7770"
